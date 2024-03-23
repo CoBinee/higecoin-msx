@@ -3,7 +3,7 @@
 [![Witches](http://img.youtube.com/vi/2iDUplzv4SI/0.jpg)](https://www.youtube.com/watch?v=2iDUplzv4SI)
 
 ## 説明
-基地を破壊してください。<br>
+コインを集めてください。<br>
 こちらから遊べます。⇒  [WebMSX](http://webmsx.org/?MACHINE=MSX1J&DISK=https://github.com/CoBinee/higecoin-msx/raw/main/diskimage/higecoin.dsk)
 
 ## 操作
