@@ -1,6 +1,6 @@
 # ヒゲとコイン
 
-[![Witches](http://img.youtube.com/vi/2iDUplzv4SI/0.jpg)](https://www.youtube.com/watch?v=2iDUplzv4SI)
+[![ヒゲとコイン](http://img.youtube.com/vi/2iDUplzv4SI/0.jpg)](https://www.youtube.com/watch?v=2iDUplzv4SI)
 
 ## 説明
 コインを集めてください。<br>
